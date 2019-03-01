@@ -22,7 +22,7 @@ int main() {
 	cout << " ************** c_str() function ************** " << endl;
 	cout << "the first letter of s4 is : " << *s4.c_str() << endl << endl;
 
-	cout << "assignment operator" << endl;
+	cout << " ************** assignment operator ************** " << endl;
 	MyString s5 = s1;
 	cout << s5 << endl << endl;
 
